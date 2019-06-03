@@ -1,0 +1,17 @@
+{
+  "name": "zullama",
+  "description": "",
+  "main": "",
+  "authors": [
+    "zoulama <wouleymane.88@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
